@@ -1,7 +1,7 @@
 import prompt_sync from "prompt-sync";
 const prompt = prompt_sync();
 
-import { ProcesarPedido } from './procesar_pedido.js';
+import { ProcesarPedido } from './modulos/procesar_pedido.js';
 
 
 const pedido = {
